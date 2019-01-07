@@ -1,1 +1,1 @@
-# My profile website. Something about myself.
+# My profile website. The responsive website about myself.
